@@ -1,6 +1,6 @@
 <?php
 
-# Client code
+# Client code.
 
 echo "Starting\n";
 
